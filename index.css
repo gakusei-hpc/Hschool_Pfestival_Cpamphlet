@@ -16,7 +16,6 @@ table{
     margin: 0 auto;
     table-layout: auto;
     caption-side: top;
-    border-spacing: 10px 3px;
     border-collapse: separate;
 }
 caption{
