@@ -25,7 +25,7 @@ caption{
 
 td.other{
     text-align: center;
-    width: 275px;
+    width: 250px;
     height: 50px;
     padding: 5px;
     border: 3px solid black;
@@ -35,7 +35,7 @@ td.other{
 
 td.group{
     text-align: center;
-    width: 375px;
+    width: 400px;
     padding: 5px;
     border: 3px solid black;
     background-color: floralwhite;
