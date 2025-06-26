@@ -64,3 +64,8 @@ p{
     text-align: left;
     margin: auto;
 }
+
+img{
+    width: 1000px;
+    height: 800px;
+}
