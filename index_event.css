@@ -25,7 +25,7 @@ caption{
 
 td.event{
     text-align: center;
-    width: 300px;
+    width: 350px;
     height: 50px;
     border: 3px solid black;
     background-color: floralwhite;
@@ -34,7 +34,7 @@ td.event{
 
 td.place{
     text-align: center;
-    width: 150px;
+    width: 200px;
     height: 50px;
     border: 3px solid black;
     background-color: floralwhite;
@@ -43,7 +43,7 @@ td.place{
 
 td.entry{
     text-align: center;
-    width: 150px;
+    width: 200px;
     border: 3px solid black;
     background-color: floralwhite;
     font-size: 25px;
@@ -51,7 +51,7 @@ td.entry{
 
 td.start{
     text-align: center;
-    width: 150px;
+    width: 200px;
     border: 3px solid black;
     background-color: floralwhite;
     font-size: 25px;
